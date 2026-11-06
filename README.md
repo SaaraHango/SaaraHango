@@ -1,6 +1,6 @@
 <a href="https://github.com/SaaraHango/SaaraHango">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaaraHango/SaaraHango/main/dark_mode.svg">
+    <img alt="Saara Hango's GitHub Profile README" src="https://raw.githubusercontent.com/SaaraHango/SaaraHango/main/light_mode.svg">
   </picture>
 </a>
